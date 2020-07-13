@@ -10,17 +10,20 @@ Catch me elsewhere! [🏠 Homepage](https://www.loikein.one/) | [🥝 Wiki](http
 
 ### Pinned repos
 
-<table style="width:100%;table-layout: fixed;">
+<table>
   <tr>
     <td><a href="https://github.com/loikein/my-gist-toc" target="_blank" rel="noopener noreferrer">my-gist-toc</a><br>all the lil goodies.</td>
+    <td></td>
     <td><a href="https://github.com/loikein/geeky-bookmarklet-collection" target="_blank" rel="noopener noreferrer">geeky-bookmarklet-collection</a><br>a collection of my favourite / most used bookmarklets</td>
   </tr>
   <tr>
     <td><a href="https://github.com/loikein/loikein.github.io" target="_blank" rel="noopener noreferrer">loikein.github.io</a><br></td>
+    <td></td>
     <td><a href="https://github.com/loikein/literate-html" target="_blank" rel="noopener noreferrer">literate-html</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/loikein/BLP-1999-archive" target="_blank" rel="noopener noreferrer">BLP-1999-archive</a><br>Datasets for Berry, Levinsohn &amp; Pakes (1995)<br></td>
+    <td></td>
     <td><a href="https://github.com/loikein/Blogger-archive-page-CN" target="_blank" rel="noopener noreferrer">Blogger-archive-page-CN</a><br>Blogger 存档页面</td>
   </tr>
 </table>
